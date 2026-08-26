@@ -1,2 +1,2 @@
-# Hamroh-AI
-"Hamroh AI" — jamoat transportini aqlli, qulay va hamma uchun teng imkoniyatli qiluvchi yagona ekotizim. U AI chatbot, real vaqt xaritasi va imkoniyati cheklanganlar uchun maxsus ovozli hamda pandus so'rovlarini o'zida birlashtiradi.
+# Lib Cloud AI
+LibCloud AI is an intelligent Telegram bot that digitizes the school library. It allows students to find and get recommendations for the books they need, and librarians to quickly manage books, rentals, and debt. With the help of AI, each student is recommended books that are in the school's collection, appropriate for their interests and age.
